@@ -1,0 +1,15 @@
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: aliceblue;
+    border-width: 15px;
+    width: 10%;
+  
+  }
+body{
+    background-color: aqua;
+}
+
+h1,h3{
+    color: brown;
+}

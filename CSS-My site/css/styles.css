@@ -1,0 +1,43 @@
+
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.top-container{
+    background-color: #EFFFFD;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.middle-container{
+    margin-left: 260px;
+    background-color: red;
+    height: 200px;
+    width:200px;
+    border: solid 20px;
+}
+.bottom-container{
+    margin-left: 500px;
+    background-color: blue;
+    height: 200px;
+    width:200px;
+    border: solid 10px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
